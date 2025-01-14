@@ -1,0 +1,1 @@
+dart pub upgrade --major-versions
