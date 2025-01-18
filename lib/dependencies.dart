@@ -27,7 +27,6 @@ export 'package:file_picker/file_picker.dart';
 export 'package:image_picker/image_picker.dart';
 export 'package:flutter_image_compress/flutter_image_compress.dart';
 export 'package:visibility_detector/visibility_detector.dart';
-export 'package:video_thumbnail/video_thumbnail.dart';
 export 'package:photo_view/photo_view.dart';
 export 'package:uuid/uuid.dart';
 export 'package:iconsax/iconsax.dart';
